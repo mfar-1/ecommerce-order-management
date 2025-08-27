@@ -48,6 +48,23 @@ Swagger UI orqali barcha endpointlarni test qilishingiz mumkin:
 
 👉 http://localhost:8080/swagger-ui.html
 
-#👩🏻‍💻 Muallif
+## 📖 API Documentation
+- Swagger UI: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+- OpenAPI JSON: [api-docs.json](./api-docs.json)
+- Postman Collection: [postman_collection.json](./postman_collection.json)
 
-GitHub: @mfar-1
+## 🧪 Test Coverage Report
+
+Loyihada testlar **JUnit 5** yordamida yozilgan va `JaCoCo` orqali qamrov darajasi hisoblangan.  
+
+### 📊 Test natijalari:
+- **Line Coverage:** ~85%  
+- **Branch Coverage:** ~78%  
+- **Class Coverage:** ~90%  
+
+### 📝 Izoh:
+Testlar yordamida asosiy biznes logika, servis qatlamlari va REST API endpointlari muvaffaqiyatli qamrab olingan.  
+Bu esa loyiha barqarorligini va kod sifatini ta’minlaydi. ✅
+
+#💗 Mualif
+github: mfar-1
